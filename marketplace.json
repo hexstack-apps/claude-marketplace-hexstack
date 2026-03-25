@@ -3,13 +3,21 @@
   "version": "1.0.0",
   "description": "Official Claude Code plugins and tools by HexStack",
   "url": "https://hexstack.app/claude",
+  "owner": {
+    "name": "HexStack",
+    "url": "https://hexstack.app"
+  },
   "plugins": [
     {
       "id": "claude-grimoire",
-      "name": "Claude Grimoire",
+      "name": "claude-grimoire",
       "version": "1.0.0",
       "description": "Claude Code Configuration Manager",
       "type": "application",
+      "source": {
+        "source": "github",
+        "repo": "rchuvilev/claude-plugin-grimoire"
+      },
       "downloadUrl": "https://github.com/hexstack/claude-grimoire/releases/latest",
       "repository": "https://github.com/hexstack/claude-grimoire",
       "icon": "icons/grimoire.png",
@@ -34,7 +42,7 @@
     }
   ],
   "metadata": {
-    "updated": "2026-03-25T08:19:55.238Z",
+    "updated": "2026-03-25T08:27:25.650Z",
     "maintainer": "HexStack Team"
   }
 }
