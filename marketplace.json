@@ -1,0 +1,40 @@
+{
+  "name": "HexStack Claude Marketplace",
+  "version": "1.0.0",
+  "description": "Official Claude Code plugins and tools by HexStack",
+  "url": "https://hexstack.app/claude",
+  "plugins": [
+    {
+      "id": "claude-grimoire",
+      "name": "Claude Grimoire",
+      "version": "1.0.0",
+      "description": "Claude Code Configuration Manager",
+      "type": "application",
+      "downloadUrl": "https://github.com/hexstack/claude-grimoire/releases/latest",
+      "repository": "https://github.com/hexstack/claude-grimoire",
+      "icon": "icons/grimoire.png",
+      "featured": true,
+      "tags": [
+        "productivity",
+        "configuration",
+        "management"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "productivity",
+      "name": "Productivity",
+      "description": "Tools to enhance your Claude Code workflow"
+    },
+    {
+      "id": "development",
+      "name": "Development",
+      "description": "Development and debugging tools"
+    }
+  ],
+  "metadata": {
+    "updated": "2026-03-25T08:19:55.238Z",
+    "maintainer": "HexStack Team"
+  }
+}
