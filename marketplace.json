@@ -9,8 +9,8 @@
   },
   "plugins": [
     {
-      "id": "claude-grimoire",
-      "name": "claude-grimoire",
+      "id": "grimoire",
+      "name": "grimoire",
       "version": "1.0.7",
       "description": "Claude Code Configuration Manager",
       "type": "application",
