@@ -5,7 +5,7 @@ Official marketplace for Claude Code plugins and extensions by HexStack.
 ## Available Plugins
 
 ### Claude Grimoire
-- **Version**: 1.0.0
+- **Version**: 1.0.7
 - **Type**: Native Application
 - **Description**: Manage Claude Code configurations with a native GUI
 

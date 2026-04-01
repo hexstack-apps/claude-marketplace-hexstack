@@ -11,7 +11,7 @@
     {
       "id": "claude-grimoire",
       "name": "claude-grimoire",
-      "version": "1.0.0",
+      "version": "1.0.7",
       "description": "Claude Code Configuration Manager",
       "type": "application",
       "source": {
@@ -42,7 +42,7 @@
     }
   ],
   "metadata": {
-    "updated": "2026-03-25T08:27:25.650Z",
+    "updated": "2026-04-01T15:35:45.687Z",
     "maintainer": "HexStack Team"
   }
 }
