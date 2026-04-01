@@ -1,0 +1,30 @@
+{
+  "name": "hexstack",
+  "owner": {
+    "name": "HexStack",
+    "email": "support@hexstack.app"
+  },
+  "metadata": {
+    "description": "Official Claude Code plugins and tools by HexStack",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "grimoire",
+      "source": {
+        "source": "github",
+        "repo": "rchuvilev/claude-plugin-grimoire"
+      },
+      "description": "Claude Code Configuration Manager — visual editor for commands, agents, MCP servers, hooks, and CLAUDE.md memory",
+      "version": "1.0.7",
+      "author": {
+        "name": "HexStack"
+      },
+      "homepage": "https://hexstack.app/claude-grimoire/",
+      "repository": "https://github.com/rchuvilev/claude-plugin-grimoire",
+      "keywords": ["productivity", "configuration", "management", "gui"],
+      "category": "productivity",
+      "tags": ["config-editor", "mcp", "hooks", "agents"]
+    }
+  ]
+}
