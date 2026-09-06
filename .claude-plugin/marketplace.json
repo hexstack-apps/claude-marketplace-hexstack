@@ -16,7 +16,7 @@
         "repo": "hexstack-apps/claude-plugin-grimoire"
       },
       "description": "Claude Code Configuration Manager — visual editor for commands, agents, MCP servers, hooks, and CLAUDE.md memory",
-      "version": "1.0.21",
+      "version": "1.0.22",
       "author": {
         "name": "HexStack"
       },
